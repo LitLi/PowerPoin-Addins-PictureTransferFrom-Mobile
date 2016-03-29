@@ -10,6 +10,7 @@ Make sure you install VisualStudio 2015(https://www.visualstudio.com/zh-cn/visua
 
 ###Step2. Run Demo
 
+* Dowload Picture Transfer.zip file and unzip it, open it in Visual Studio
 * Debug->Start Debugging or F5
 * VS will launch Word or PowerPoint and Add-ins will run in office, Add-ins will give you a 2D image code
 * Using your mobilephone to scan this 2D image code
